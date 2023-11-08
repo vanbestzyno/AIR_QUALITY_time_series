@@ -1,2 +1,2 @@
-# Dự báo các giá trị chất lượng không khí
+# Dự báo giá trị các chỉ số chất lượng không khí
 Sử dụng ARIMA và VARIMA
